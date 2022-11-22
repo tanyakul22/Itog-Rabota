@@ -9,3 +9,6 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 
 [“Russia”, “Denmark”, “Kazan”] → []
+
+
+![Diagramma](exs001/diagram%20.png)
